@@ -1,0 +1,23 @@
+body
+{
+    color: black;
+    background-color: yellow;
+}
+
+.image
+{
+    border:5px groove grey;
+    width:350px;
+    height:300px;
+    
+    margin-top: 15px;
+}
+
+#imag
+{
+    border:5px groove grey;
+    width:100px;
+    height:100px;
+    
+    margin-top: 15px;
+}
